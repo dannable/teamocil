@@ -43,4 +43,4 @@ async def create_teams(ctx):
     for team, members in teams.items():
         await ctx.send(f"{team}: {', '.join(members)}")
 
-bot.run('MTE5NzY1OTM1NDk4NDM1Nzk4OQ.GbxmQs.JC0KfznrTizZw2p3fnkv__GycPY2LF1hy2m444')
+bot.run('')
